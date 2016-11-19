@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "The sooner you fail, the faster you learn!"
+  - text: "Buy the ticket, take the ride."
+  - text: "Life is like riding a bicycle. To keep your balance, you must keep moving."
 
 me-img: "/img/jetpacktocat.png"
 

@@ -20,6 +20,9 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
 
+# htmlproofer for testing.
 gem 'html-proofer'
-gem 'jekyll-paginate'
+
+# Gems needed for theme
 gem 'jemoji'
+gem 'jekyll-paginate'
