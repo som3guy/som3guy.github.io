@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Jeremy Miller"
+title: "{ Jeremy Miller }"
+description: "Blog and website of Jeremy Miller, blogging mainly for tech. Opinions expressed are mine."
+keywords: "miller, jeremy, personal, jekyll"
 favicon: "/img/favicon.ico"
 
 ################
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "jmiller3346@gmail.com"
 
 ################
 # Author Blurb #
