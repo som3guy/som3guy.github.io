@@ -93,17 +93,17 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
-twitter-share: True
+fb-share: False
+twitter-share: False
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "som3guy"
 
 syntax-highlight: True
 
@@ -160,7 +160,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+err-404-img: "/img/labtocat.png"
 
 ##################
 # GPG on Keybase #
