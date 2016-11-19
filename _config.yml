@@ -71,7 +71,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -154,12 +154,14 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/jeremy-miller-31162949"
   - title: "github"
     url: "https://github.com/som3guy"
+  - title: "file-text-o"
+    url: "http://registry.jsonresume.org/jmiller"
+  - title: "stack-overflow"
+    url: "http://stackoverflow.com/users/2847068/som3guy"
   - title: "rss"
     url: "/feed.xml"
 
