@@ -112,12 +112,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+  - image: "/img/timeline/a2hosting.png"
+    date: "February 2014 - July 2016"
+    description: "Getting my first professional experience in Linux at A2 Hosting."
   - image: "/img/timeline/TE_logo.png"
     date: "March 2012 - February 2014"
-    description: "Landed my first IT job!"
+    description: "Landed my first IT job at Tech Experts!"
 
 # First image of the Timeline
 
