@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The sooner you fail, the faster you learn!"
-  - text: "Buy the ticket, take the ride."
+  - text: "Buy the ticket, take the ride!"
   - text: "Life is like riding a bicycle. To keep your balance, you must keep moving."
 
 me-img: "/img/jetpacktocat.png"
