@@ -63,9 +63,3 @@ Finally, I have setup a view using the “Delivery Pipeline View” which begins
 Here is a screen shot of the Delivery Pipeline View:
 
 ![zabbix pipeline]({{ site.url }}/assets/blogs/zabbix_agent_pipeline.png)
-
-
-
-
-
-
