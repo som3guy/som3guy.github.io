@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://som3guy.github.io"
+url: "http://jeremymiller.me"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -22,7 +22,7 @@ google-tracking-id: "UA-97395566-1"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: false
 
 #############
 # HTML Head #
