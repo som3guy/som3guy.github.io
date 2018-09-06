@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/som3guy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jeremymiller.me
+  * I am som3guy (https://keybase.io/som3guy) on keybase.
+  * I have a public key with fingerprint 9527 3400 BF54 5279 1E68  9793 627E 369F 8B30 342C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010d54a1f9c927580e35ab00ae6ce9923bd2d303287329570f0b9d56d47e3d8a320a",
+      "fingerprint": "95273400bf5452791e689793627e369f8b30342c",
+      "host": "keybase.io",
+      "key_id": "627e369f8b30342c",
+      "kid": "01010d54a1f9c927580e35ab00ae6ce9923bd2d303287329570f0b9d56d47e3d8a320a",
+      "uid": "57b14cd135a9921edd6d68c779a6c719",
+      "username": "som3guy"
+    },
+    "service": {
+      "hostname": "jeremymiller.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1536260461,
+  "expire_in": 157680000,
+  "prev": "65e6017478d55d936645c9ceda3953de8303beba5b794596dc317c0153177836",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSFRBGN4tLymFggYtYcSRoGiNc5szZ7YkZLObPSgW3az1nDOz61l3
+z9nOnlUXE7tAGGVkL2XZg2YSXcDIyMIoTSjooaykhyUTAkEsIrsQldIcqbcem3mY
+mX++75vv/5jhRfNd2e7eU/68rof7LffTwfaEa29bMtrIqCZOMr5GppbMLSSCSdwO
+1OqY8TEsRycGosIFkYZ4CGSWCEBRWVYhkkYQ4gUV81hgBV6GAo8AZIOsijCQsAiJ
+gGVF4FmF8TJB3QgRK2bphk1lEeChILKsGgQi3SKOSDKCSJB4SpJQUFaposhrlFhj
+xh0GNacqcbJGN2mNHgJz9v6B/8++E3NyAKqcqGGOSlAqRzCWsCRrECJF0iCHHGCc
+WIYSJRQdN6NCKJFkmrwMLdbpGnFydRr5AwgTi0STUT0SIdYaWvEyMcu0Tc2M0Msa
+2475HK6djDngeqIG/sgEVN3ANEhKqCNWXDcNxsdRpGbrji4HaIASK0qclyENMd0i
+Ad1BACjJLB3OM6TOiQ0QieWgCGUMAKaxSyLQkEawIiAgYCLTXFSiKkCFSARIwprA
+QY2l+hyEsiAxTmMHDNPRpj6VkNO0HjIUO2ERpmnoYVWay53tykif5/wwV3ZW7t9/
+t7Mwc5atqB25tfnYg/WR40Xd3lUXlo90NOV4YoXjU8VC8aF9vvCFls7wWhZUrlx6
+qm+s5NvGPW2PTpb2rqsOPZ6+469/1jyTOnu7szNy/5WnICd1o+dif2HB9NBox4A/
+6dp+kdN+nstrebdiC0kdNqqNa4sSP54BJjP8lhz0pLVezXcv2ObZmvPp7gx/+Xqr
+/3T+91+fH5RNlE8WvPwQFeon+is39JzcvSlRoXRBuSHrm10TzapZmPpSUcTv6g1r
+2WXbmvuiq3NKu8eqlkSGL5UcmR3/OH7l9c2pJ0Mv+htHxxafH7g3WN4RSJtMH97x
+9XruiZKjb94vMdufF7uXnctIbz1TvPk3dJ06Cw==
+=j+TN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/som3guy
+
+==================================================================
