@@ -114,7 +114,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/cerner.png"
     date: "August 2014 - Today"
-    description: "I am now a System Engineer at Cerner Corporation in a Devops environment."
+    description: "I am now a Senior System Engineer at Cerner Corporation in a Devops environment."
   - image: "/img/timeline/splunk.png"
     date: "July 2017 - Present"
     description: "Splunk Certified User 6.x"
