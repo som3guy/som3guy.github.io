@@ -9,7 +9,7 @@ title: Skills
   <summary>Linux</summary><p style="text-align:left;">
     <ul style="text-align:left;">
       <li>I have my RHCSA.</li>
-      <li>I manage Zabbix server and proxies at Cerner, we have a Zabbix Server that runs in between 15k and 50k VPS.</li>
+      <li>I managed  Zabbix servers and proxies at Cerner, we have a Zabbix Server that runs in between 15k and 50k VPS.</li>
       <li>I am using over 70 Zabbix proxies in our production environment.</li>
       <li>The Zabbix server I manage has over 11k hosts and 3 million items.</li>
       <li>During my time at Cerner I have only managed Linux servers.</li>
@@ -33,6 +33,13 @@ title: Skills
 <details>
   <summary>Applications</summary><p style="text-align:left;">
  <ul style="text-align:left;">
+ <li style="color:green;">Splunk</li>
+    <ul style="text-align:left;">
+      <li>I have my Spunk User 6.x Certification</li>
+      <li>I have created queries to find errors across multiple servers.</li>
+      <li>I have created dashboards to show visual representations of data.</li>
+      <li>I have joined a Splunk SPLaaS/CoE Team and now solely focus on working with splunk</li>
+    </ul>
   <li style="color:red;">Zabbix</li>
     <ul style="text-align:left;">
       <li>I regularly maintain two testing environments and three production environments.</li>
@@ -40,21 +47,13 @@ title: Skills
       <li>All environments are n+1</li>
       <li>I also maintain about 70 proxy pairs.</li>
       <li>I have worked with Zabbix Support to implement best practices and to work though tough issues.</li>
-      <li>I have implemented one proxy pair in a PCI compliant environment.</li>
       <li>I have setup Zabbix servers and proxies in a DoD secured environment that complies with DISA STIG's</li>
     </ul>
-  <li style="color:red;">Chef</li>
+  <li style="color:orange;">Chef</li>
     <ul style="text-align:left;">
       <li>I have used knife extensively to upload or modify existing configurations, create encrypted data bags, and bootstrap servers to chef.</li>
-      <li>I mainly work in a DevOps environment, where our development team creates the majority the code.</li>
       <li>We use GitHub Enterprise to store, version control, and peer-review all code.</li>
-      <li>While I am not a developer myself, I have created several pull requests to update or implement new code.</li>
-    </ul>
-  <li style="color:red;">Splunk</li>
-    <ul style="text-align:left;">
-      <li>I currently have no experience managing Splunk at this time.</li>
-      <li>I have created queries to find errors across multiple servers.</li>
-      <li>I have created dashboards to show visual representations of data.</li>
+      <li>While I am not a developer myself, created, updated, and refactored cookbook for several years now.</li>
     </ul>
 </ul>
 </p></details>
