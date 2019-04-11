@@ -193,7 +193,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  # Blog: 'latest-post'
   Timeline: 'timeline'
   Skills: 'skills'
   Resume: 'resume'
@@ -212,6 +212,6 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
